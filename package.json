@@ -1,0 +1,21 @@
+{
+  "name": "like-getter",
+  "version": "1.0.0",
+  "description":
+    "Retrieve your likes (favs) from twitter in both Markdown and JSON format",
+  "main": "index.js",
+  "keywords": ["twitter", "likes", "favs", "faves", "archive"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "greggb",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.1",
+    "prettier": "^1.9.2",
+    "prettier-eslint": "^8.6.0"
+  }
+}
